@@ -1,0 +1,12 @@
+ecommerce-backend/
+│── config/              # DB config, payment config, etc.
+│── controllers/         # Handle business logic for routes
+│── middleware/          # Auth, error handling, validation
+│── models/              # Mongoose or Sequelize models
+│── routes/              # API route definitions
+│── utils/               # Helper functions (email sender, etc.)
+│── uploads/             # (optional) local product images
+│── .env                 # Environment variables
+│── app.js               # Express app setup
+│── server.js            # Server start
+│── package.json
