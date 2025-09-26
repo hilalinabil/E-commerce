@@ -1,4 +1,4 @@
-ecommerce-backend/
+backend/
 │── config/              # DB config, payment config, etc.
 │── controllers/         # Handle business logic for routes
 │── middleware/          # Auth, error handling, validation
